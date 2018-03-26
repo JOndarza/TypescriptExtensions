@@ -1,0 +1,7 @@
+coverage
+node_modules
+npm-debug.log
+
+index.js
+index.d.ts
+index.js.map
